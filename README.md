@@ -201,7 +201,3 @@ Este projeto foi desenvolvido como parte das atividades práticas da disciplina 
 
 **Desenvolvido com ☕ e 🚴 para ciclistas que amam café!**
 ```
-
-Deve ser algo como:
-```
-https://github.com/SEU_USUARIO/cafeteria-pingado-roda-grao
