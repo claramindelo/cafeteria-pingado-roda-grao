@@ -186,10 +186,10 @@ ORDER BY carimbos_acumulados DESC;
 
 ## 👥 Informações Acadêmicas
 
-**Disciplina:** Banco de Dados  
+**Disciplina:** Modelagem de Banco de Dados  
 **Projeto:** Experiência Prática IV  
-**Instituição:** [Sua Faculdade]  
-**Período:** 2024/2
+**Instituição:** Faculdade Positivo  
+**Período:** 2025/2
 
 ---
 
